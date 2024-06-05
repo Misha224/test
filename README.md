@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> e036c06ba22b01d8b355680d2a2a268f1e4b99a5
 ## Allure
 
 ```bash
@@ -16,7 +20,10 @@ yarn dev
 
 ```bash
 yarn build
+<<<<<<< HEAD
 
+=======
+>>>>>>> e036c06ba22b01d8b355680d2a2a268f1e4b99a5
 yarn start
 ```
 
@@ -24,4 +31,8 @@ yarn start
 
 ```bash
 yarn studio
+<<<<<<< HEAD
 ```
+=======
+=======
+>>>>>>> e036c06ba22b01d8b355680d2a2a268f1e4b99a5

@@ -46,7 +46,11 @@ export const SignUpForm = () => {
             <FormItem>
               <FormLabel>Name</FormLabel>
               <FormControl>
+<<<<<<< HEAD
                 <Input {...field} className='w-[300px]' autoComplete='name' />
+=======
+                <Input {...field} className='w-[320px]' autoComplete='name' />
+>>>>>>> e036c06ba22b01d8b355680d2a2a268f1e4b99a5
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -64,7 +68,11 @@ export const SignUpForm = () => {
                   placeholder='example@example.com'
                   autoComplete='email'
                   {...field}
+<<<<<<< HEAD
                   className='w-[300px]'
+=======
+                  className='w-[320px]'
+>>>>>>> e036c06ba22b01d8b355680d2a2a268f1e4b99a5
                 />
               </FormControl>
 
@@ -80,7 +88,11 @@ export const SignUpForm = () => {
             <FormItem>
               <FormLabel>Password</FormLabel>
               <FormControl>
+<<<<<<< HEAD
                 <PasswordInput placeholder='***' {...field} className='w-[300px]' />
+=======
+                <PasswordInput placeholder='***' {...field} className='w-[320px]' />
+>>>>>>> e036c06ba22b01d8b355680d2a2a268f1e4b99a5
               </FormControl>
 
               <FormMessage />
