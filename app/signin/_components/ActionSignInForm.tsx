@@ -24,7 +24,15 @@ export const ActionSignInForm = () => {
           type='email'
           id='email'
           placeholder='example@example.com'
+<<<<<<< HEAD
           className='w-[300px]'
+=======
+<<<<<<< HEAD
+          className='w-[300px]'
+=======
+          className='w-[320px]'
+>>>>>>> e036c06ba22b01d8b355680d2a2a268f1e4b99a5
+>>>>>>> bcd9649d9b79e69a8623dc7828491f8321b125f8
         />
       </div>
 
@@ -35,7 +43,15 @@ export const ActionSignInForm = () => {
           type='password'
           id='password'
           placeholder='password'
+<<<<<<< HEAD
           className='w-[300px]'
+=======
+<<<<<<< HEAD
+          className='w-[300px]'
+=======
+          className='w-[320px]'
+>>>>>>> e036c06ba22b01d8b355680d2a2a268f1e4b99a5
+>>>>>>> bcd9649d9b79e69a8623dc7828491f8321b125f8
         />
       </div>
 
